@@ -12,4 +12,4 @@ I'm an passionate coder, who's studying at the National University of Science an
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
-[See resume](cosminelulul.github.io) 
+[See resume](https://cosminelulul.github.io) 
