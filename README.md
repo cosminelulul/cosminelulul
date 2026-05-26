@@ -14,6 +14,6 @@ I'm a passionate developer, who's studying at the National University of Science
 >
 ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 ![PyPi](https://img.shields.io/badge/-PyPI-3775A9?style=flat&logo=pypi&logoColor=white)
->![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 
