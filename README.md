@@ -1,5 +1,7 @@
 ## Hello!
-I'm an passionate coder, who's studying at the National University of Science and Technology POLITEHNICA Bucharest. Here you can find repositories that contain both my University projects, and side-projects!
+I'm an passionate coder, who's studying at the National University of Science and Technology POLITEHNICA Bucharest. Some *Software-Engineering* fields I am particulary interestered: **Game Development**, **Machine Learning**, **Front-End & Back-End Development**.  Here you can find repositories that contain both my University projects, and side-projects!
+
+
 
 ---
 # Languages and tools:
