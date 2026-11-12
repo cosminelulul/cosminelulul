@@ -1,5 +1,5 @@
 # About Me
-I'm a passionate developer, who's studying at the National University of Science and Technology POLITEHNICA Bucharest. Some *Software-Engineering* fields I am particulary interestered: **Game Development**, **Machine Learning**, **Web Development**.  Here you can find repositories that contain both my University projects, and side-projects!
+I'm a passionate developer, who's studying at the University POLITEHNICA Bucharest. Fields I am particularly interested in: **Game Development**, **Machine Learning**, **Web Development**. 
 
 
 ---
